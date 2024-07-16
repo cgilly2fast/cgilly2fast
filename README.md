@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Colby!</h1>
 
-<p>I am a software engineer and entrenpuer who also works on cars.</p>
+<p>I am a software engineer and entrepreneur who also works on cars.</p>
 
 ## My Stack
 <p align="center">
