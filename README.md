@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Colby! 👋</h1>
+<h1 align="center">Hi there, I'm Colby!</h1>
+
+<p>I am a software engineer and entrenpuer who also works on cars.</p>
 
 ## My Stack
 <p align="center">
@@ -15,7 +17,7 @@
   </a>
 </p>
 
-## My projects
+
 
 <!--
 **cgilly2fast/cgilly2fast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
