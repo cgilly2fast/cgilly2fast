@@ -5,7 +5,7 @@
 ## My Stack
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,react,graphql,grpc,nextjs,tailwindcss,neovim,redux,go,java,vercel,firebase,gcp,aws,docker,git,githubactions,godot,nodejs" alt="TypeScript, React, GraphQL, Next.js, TailwindCSS, NeoVim, Redux, Go, Firebase, Vercel, GCP, AWS, CSS, Docker, Git, Github Actions, Godot, NodeJS,">
+    <img src="https://skillicons.dev/icons?i=ts,react,graphql,nextjs,tailwindcss,neovim,redux,go,java,vercel,firebase,gcp,aws,docker,git,githubactions,godot,nodejs" alt="TypeScript, React, GraphQL, Next.js, TailwindCSS, NeoVim, Redux, Go, Firebase, Vercel, GCP, AWS, CSS, Docker, Git, Github Actions, Godot, NodeJS,">
   </a>
 </p>
 
